@@ -1,0 +1,9 @@
+.todo-item {
+    color: blue;
+}
+.todo-task:hover{
+    cursor: pointer;
+}
+.todo-task.todo-completed{
+    text-decoration: line-through;
+}
